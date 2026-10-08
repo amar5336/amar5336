@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amar!
+# 👋 Hi, I'm Amaresh!
 
 ### 💻 Aspiring Developer | 🧠 DSA Learner | 🚀 Building My Coding Journey
 
