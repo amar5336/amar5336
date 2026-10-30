@@ -56,6 +56,12 @@
 <h2>📫 Contact</h2>
 <br>
 <a href="https://github.com/amar5336"><img src="https://img.shields.io/badge/GitHub-amar5336-181717?style=for-the-badge&logo=github" alt="GitHub link"></a>
+<br><br>
+<a href="https://www.linkedin.com/in/amaresh-g-858386321/"><img src="https://img.shields.io/badge/LinkedIn-Amaresh%20G-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn link"></a>
+<br><br>
+<a href="https://leetcode.com/u/Amaresh_G/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode link"></a>
+<br><br>
+<a href="mailto:codemania5336@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email link"></a>
 </td>
 </tr>
 </table>
