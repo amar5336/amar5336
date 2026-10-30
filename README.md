@@ -29,6 +29,28 @@
 <p align="center">
   <a href="https://github.com/amar5336"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" /></a>
 </p>
+<h2 align="center">🚀 Projects</h2>
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
+      <h3><a href="https://github.com/amar5336/ask-my-notes">Ask My Notes</a></h3>
+      <p>PDF question-answering app using Retrieval-Augmented Generation (RAG). Upload a PDF, ask a question, and get an answer based only on the document. Scored 80% (8 out of 10) on a test set.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
+        <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square" alt="Groq API" />
+      </p>
+      <p>
+        <a href="https://github.com/amar5336/ask-my-notes">Source Code</a> |
+        <a href="https://ask-my-notes-jhti42hgrxt6uvnfyxpymr.streamlit.app">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://github.com/amar5336"><img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" /></a>
+</p>
 <h3 align="center">📊 Vital Statistics</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amar5336&theme=radical" alt="GitHub profile summary" />
